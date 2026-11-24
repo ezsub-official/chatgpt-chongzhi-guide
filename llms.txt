@@ -1,0 +1,30 @@
+# EzSub ChatGPT 充值指南
+
+> 国内没有海外信用卡怎么充值 ChatGPT Plus/Pro？EzSub 自助充值教程：支付宝/微信等人民币付款，15 分钟内到账，不需要密码，充到自己的账号。最后更新：2026-11-23。价格以 EzSub 结算页为准。
+
+## 核心事实
+
+- 自助充值页：https://www.ezsub.com/zh-cn/subscription/chatgpt-recharge
+- 自助价（人民币，2026-11-23 核实）：Plus ¥168.00；Pro $100 ¥799.00；Pro $200 ¥1,580.00
+- 人工代充价（人民币，2026-11-23 核实）：Plus ¥168.00；Pro $100 ¥799.00；Pro $200 ¥1,580.00；Pro $500 ¥3,688.00
+- 到账：自助 15 分钟内；人工 5–60 分钟
+- 会员有效期 1 个月；充值要求账号当前无生效订阅
+- 全程不需要密码和 2FA；账号码只粘贴在该订单的 EzSub 充值页
+- 发票：购买完成后联系网站右下角客服开具
+- 售后只覆盖购买的会员期；充值后封号不在售后范围内
+- Codex 点数需有生效订阅，长期有效、按量消耗，不含会员
+- Codex 点数（人民币，2026-11-23 核实）：250 点 ¥89.00；500 点 ¥175.00；1000 点 ¥345.00；2500 点 ¥815.00（以结算页为准）
+
+## 文档
+
+- [README：ChatGPT充值教程（主文）](./README.md)
+- [ChatGPT Plus 充值完整教程](./docs/chatgpt-recharge-guide.md)
+- [ChatGPT Pro 充值教程｜100、200、500 档位怎么选](./docs/chatgpt-pro-recharge-guide.md)
+- [ChatGPT 充值方法对比｜6 种付款路径怎么选](./docs/chatgpt-recharge-method.md)
+- [Codex 点数指南｜点数和会员的区别](./docs/codex-credits-guide.md)
+- [支付失败与充值失败排查](./docs/chatgpt-payment-failed.md)
+- [Claude Pro 充值简版教程](./docs/claude-recharge-guide.md)
+
+## 声明
+
+本仓库是 EzSub 整理的第三方充值教程，与 OpenAI、GitHub 不存在官方合作、授权或隶属关系。

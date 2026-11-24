@@ -1,0 +1,21 @@
+# EzSub ChatGPT 充值指南 — GitHub Pages（Jekyll）配置
+# 组织 ezsub-official 已建（2026-11-24），url 已填实际组织名
+
+title: ChatGPT充值教程｜国内支付宝/微信开通 Plus、Pro（2026最新）
+description: 国内没有海外信用卡怎么充值ChatGPT Plus/Pro？EzSub自助充值完整教程：支付宝/微信付款，15分钟内到账，不需要密码，充到自己的账号。附Pro档位对比、Codex点数说明与充值失败排查。
+url: https://ezsub-official.github.io
+baseurl: /chatgpt-chongzhi-guide
+
+lang: zh-CN
+theme: minima
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO 插件默认使用上面的 title / description
+# 每篇 docs 文档的 frontmatter 里另有各自的 title / description / keywords
+
+exclude:
+  - REPO-SETUP.md
+  - README.md

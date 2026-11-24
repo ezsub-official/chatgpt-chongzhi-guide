@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 组织 ezsub-official 已建（2026-11-24），Sitemap 已填实际组织名
+Sitemap: https://ezsub-official.github.io/chatgpt-chongzhi-guide/sitemap.xml
